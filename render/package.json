@@ -1,9 +1,0 @@
-{
-  "name": "granny-cake-render",
-  "private": true,
-  "type": "module",
-  "description": "Chromium (Playwright) frame renderer for the hand-drawn film",
-  "dependencies": {
-    "playwright": "^1.49.1"
-  }
-}
