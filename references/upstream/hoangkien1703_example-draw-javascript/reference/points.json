@@ -1,0 +1,14 @@
+[
+  { "name": "paper", "x": 100, "y": 50 },
+  { "name": "lid", "x": 100, "y": 280 },
+  { "name": "upper panel", "x": 100, "y": 500 },
+  { "name": "sheet music", "x": 300, "y": 470 },
+  { "name": "cat body", "x": 300, "y": 180 },
+  { "name": "creature", "x": 500, "y": 600 },
+  { "name": "creature eye", "x": 406, "y": 605 },
+  { "name": "lamp shade", "x": 1000, "y": 60 },
+  { "name": "black key", "x": 250, "y": 860 },
+  { "name": "white key", "x": 180, "y": 900 },
+  { "name": "blue band", "x": 600, "y": 1030 },
+  { "name": "lower panel", "x": 600, "y": 1120 }
+]

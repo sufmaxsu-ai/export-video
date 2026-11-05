@@ -1,0 +1,16 @@
+{
+  "name": "example-draw-javascript",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Recreate a hand-drawn colored-pencil frame in plain JavaScript on a canvas, and compare it against the original.",
+  "type": "module",
+  "scripts": {
+    "render": "node tools/render.mjs",
+    "compare": "node tools/compare.mjs",
+    "crop": "node tools/crop.mjs",
+    "video": "node tools/video.mjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.56.1"
+  }
+}

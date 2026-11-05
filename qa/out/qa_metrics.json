@@ -1,0 +1,54 @@
+{
+  "frames": 192,
+  "size": [
+    1080,
+    1920
+  ],
+  "unique_drawings_measured": 108,
+  "unique_drawings_declared": 108,
+  "held_frames": 84,
+  "exposure_mismatches": [],
+  "pops": [],
+  "aba_flicker": [],
+  "blank_frames": [],
+  "frozen_runs_over_3": [],
+  "alpha_fully_opaque": true,
+  "pure_white_ratio_frame0": 0.0,
+  "mean_change": 6.454,
+  "max_change": 8.413,
+  "max_change_frame": 146,
+  "ffprobe": {
+    "programs": [],
+    "streams": [
+      {
+        "codec_name": "h264",
+        "profile": "High",
+        "codec_type": "video",
+        "width": 1080,
+        "height": 1920,
+        "pix_fmt": "yuv420p",
+        "r_frame_rate": "24/1",
+        "avg_frame_rate": "24/1",
+        "duration": "8.000000",
+        "nb_frames": "192"
+      },
+      {
+        "codec_name": "aac",
+        "profile": "LC",
+        "codec_type": "audio",
+        "sample_rate": "48000",
+        "channels": 2,
+        "r_frame_rate": "0/0",
+        "avg_frame_rate": "0/0",
+        "duration": "8.000000",
+        "nb_frames": "376"
+      }
+    ],
+    "format": {
+      "duration": "8.000000",
+      "size": "13161875",
+      "bit_rate": "13161875"
+    }
+  },
+  "decoded_frames": 192
+}
